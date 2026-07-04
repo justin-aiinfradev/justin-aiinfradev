@@ -120,33 +120,33 @@ I enjoy designing complete systems where frontend applications, backend services
 
 ### AI
 
-- OpenAI
-- Claude
-- Gemini
-- LangChain
-- RAG
-- Embeddings
-- Vector Search
-- Prompt Engineering
-- AI Agents
-- MCP
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A0A0A?style=flat-square&logo=openai&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00A67E?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 ### Databases
 
-- PostgreSQL
-- MongoDB
-- Redis
-- Supabase
-- Vector Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-6A5ACD?style=flat-square&logo=databricks&logoColor=white)
 
 ### DevOps
 
-- Docker
-- Kubernetes
-- AWS
-- GitHub Actions
-- CI/CD
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=github&logoColor=white)
 ---
 
 # 🚀 Areas of Expertise
